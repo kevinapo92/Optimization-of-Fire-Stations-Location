@@ -27,7 +27,7 @@ where **Xi = 0 or 1** ; (i=1,2,3, 4,5, 6)
 
 
 ## Technologies Used
-* Pthon 
+* Python 
 * Jupyter Notebook
 * Cplex IBM
 
